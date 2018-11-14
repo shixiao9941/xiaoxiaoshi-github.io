@@ -30,8 +30,7 @@ Zhanbiao Yang, Ping Li, Xiao Shi, Jinzhu Zhou, Xiaowei Shi
 
 Honors & Awards
 -------------------
-•Meritorious Winner (First Prize) in the International Mathematical Modeling              
- Contest for college students (Interdisciplinary Contest in Modeling)                     2016
+•Meritorious Winner (First Prize) in the International Mathematical Modeling Contest for college students (Interdisciplinary Contest in Modeling)                                                                                 2016
  
 •Graduated with Distinction: College Graduate Excellence Award of Xidian University       2017
 
