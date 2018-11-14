@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+Xiao Shi
+===========
+About me
+--------------
+I’m now a first-year Ph.D. student in Computer Science and Engineering Department, the University of Texas at Arlington,working under the supervision of Dr. Chengkai Li. 
 
-You can use the [editor on GitHub](https://github.com/shixiao9941/xiaoxiaoshi-github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Education
+-------------------
+•B.S. in Electronic Information Engineering                             
+Xidian University                                                 Aug.2013 – Jul.2017   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•Ph.D. student in Computer Science and Engineering   
+University of Texas at Arlington                                       Aug.2018 – Now
 
-### Markdown
+Research Area
+----------------
+•Data Science, Data Mining, Natural Language Processing, Machine Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•Antenna(in the past)
 
-```markdown
-Syntax highlighted code block
+Publication
+--------------
+•A dual-circularly polarized microstrip antenna Proceedings of the National Microwave and
+Millimeter Wave Conference in 2018 (Volume I): 432-435
+Xiao Shi, Qiulin Huang, Zhanbiao Yang, Zhenxing Liu, Xiumei Shen, Xiaowei Shi
 
-# Header 1
-## Header 2
-### Header 3
+•High Gain X-Band Fabry-Perot Antenna Array Proceedings of the National Microwave and
+Millimeter Wave Conference in 2018 (Volume II): 1297-1300
+Zhanbiao Yang, Ping Li, Xiao Shi, Jinzhu Zhou, Xiaowei Shi 
 
-- Bulleted
-- List
+Honors & Awards
+-------------------
+•Meritorious Winner (First Prize) in the International Mathematical Modeling              2016
+ Contest for college students (Interdisciplinary Contest in Modeling)
+ 
+•Graduated with Distinction: College Graduate Excellence Award of Xidian University       2017
 
-1. Numbered
-2. List
+•First Prize in National Mathematical Modeling Contest of Shaanxi Division                2015
 
-**Bold** and _Italic_ and `Code` text
+•Third Prize in National College Students Mathematic Competition of 
+Shaanxi Division ,two times                                                         2014 ,2015
 
-[Link](url) and ![Image](src)
-```
+•Third Prize in National College Students English Contest                                 2018
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+•Excellent Student of Xidian University, three times                            2014,2015,2016
 
-### Jekyll Themes
+•National Encouragement Scholarship, two times                                     2014 , 2015
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shixiao9941/xiaoxiaoshi-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Computer Skills
+----------------
+•Computer Language:  Python, C , Matlab
 
-### Support or Contact
+•Software:  SPSS, HFSS, AutoCAD, LaTeX, Origin, Visio, Lingo, C51
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
